@@ -6,7 +6,7 @@ subtitle: Doctoral Researcher in Political Science
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_5277_photo_annina.jpeg #prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Humboldt University Berlin</p>
