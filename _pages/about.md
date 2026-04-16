@@ -29,8 +29,8 @@ latest_posts:
 
 I am a doctoral researcher in political science at the [Research Training Group DYNAMICS](https://www.dynamics.hu-berlin.de/) jointly organized by the [Hertie School](https://www.hertie-school.org/en/) and [Humboldt University Berlin](https://www.hu-berlin.de/), where I am supervised by [Heike Klüver](https://heike-kluever.com). I am also an affiliated researcher at the [Humboldt Governance Lab](https://hu-govlab.de/en/homepage/).
 
-My research research interests are in comparative politics and political behavior, with a focus on party competition, party-voter linkages, and the role of civil society. In my dissertation, I investigate how challenger parties strategically engage with civil society to improve their electoral prospects.
+My research interests are in comparative politics and political behavior, with a focus on party competition, party-voter linkages, and the role of civil society. In my dissertation, I investigate how challenger parties strategically engage with civil society to improve their electoral prospects.
 
 Before starting my PhD, I obtained a Master's in Political Science from Sciences Po Paris and a BA in Political Science from the University of Dresden, where I also worked as a research and teaching assistant. I also hold a BA in Business Administration.
 
-You can find my CV [here](/assets/pdf/cv_annina_hermes.pdf).
+You can find my CV [here](/assets/pdf/cv_hermes_public.pdf).
