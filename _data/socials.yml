@@ -3,7 +3,7 @@
 # for more information, please refer to the documentation of jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
 #
 # NOTE: jekyll-socials 0.0.6 uses specific key names — see below for correct format.
-cv_pdf: /assets/pdf/cv_annina_hermes.pdf # path to your CV PDF file
+cv_pdf: /assets/pdf/cv_hermes.pdf # path to your CV PDF file
 email: annina.hermes@hu-berlin.de
 orcid_id: 0009-0008-3876-8177 # your ORCID ID (key must be "orcid_id")
 # scholar_userid: XXXXXXXX # your Google Scholar ID — fill in your actual ID

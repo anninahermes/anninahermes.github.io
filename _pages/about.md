@@ -33,4 +33,4 @@ My research interests are in comparative politics and political behavior, with a
 
 Before starting my PhD, I obtained a Master's in Political Science from Sciences Po Paris and a BA in Political Science from the University of Dresden, where I also worked as a research and teaching assistant. I also hold a BA in Business Administration.
 
-You can find my CV [here](/assets/pdf/cv_hermes_public.pdf).
+You can find my CV [here](/assets/pdf/cv_hermes.pdf).
