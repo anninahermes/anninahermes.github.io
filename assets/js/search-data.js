@@ -426,7 +426,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/cv_annina_hermes.pdf", "_blank");
+          window.open("/assets/pdf/cv_hermes.pdf", "_blank");
         },
       },{
         id: 'social-email',
